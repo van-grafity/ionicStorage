@@ -1,0 +1,2 @@
+# ionicStorage
+initial storage
